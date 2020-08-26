@@ -1,8 +1,8 @@
-# RobloxBuyAllFreeItems
-
 THIS SCRIPT IS REALLY SIMPLE TO SETUP:
 1- DOWNLOAD PYTHON AT: https://www.python.org/downloads/
+
 2- PUT YOUR COOKIES LIST IN THE "cookie.txt" FILE AND SAVE IT.
+
 3- DOUBLE CLICK THE "main.py" AND ENJOY!
 
  ~ 3D#6098
